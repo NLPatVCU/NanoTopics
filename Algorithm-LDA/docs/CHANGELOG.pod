@@ -1,0 +1,18 @@
+##################################################################
+#
+#    CHANGES for the Algorithm::LDA Package
+#    $Id: CHANGELOG.pod,v 1.96 2016/07/24 19:25:05 btmcinnes Exp $ 
+#################################################################
+
+=head1 NAME
+
+Algorithm::LDA CHANGES
+
+=head2 version 0.03
+
+1. updated documentations
+
+=head2 version 0.01
+
+1. initial creation of package 
+
